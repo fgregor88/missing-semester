@@ -1,0 +1,8 @@
+neka drugeg
+
+plan:
+-kak uporabljati vim
+-eno par ukazov
+-neke švingelc se narede
+
+bar osnovne stvari so ...
