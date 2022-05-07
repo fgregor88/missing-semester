@@ -1,1 +1,12 @@
 first vim document
+ok samo zdaj vem bistveno več vima kak san te znau ...
+mogoče bi lejko ponovo ukaze katere san se navčo
+
+NORMAL MODE
+j - move down
+k - move up
+h - move left
+l - move right
+
+i - insert mode
+o - new line and insert mode
